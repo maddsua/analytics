@@ -1,6 +1,5 @@
-This repo contains multiple tools to help do analytics and stuff without installing 3 fucking hundred tons of dependency packages.
-
----
+⚠ Moved to: <https://github.com/maddsua/mws-packages>
+--
 
 ## Packages
 
